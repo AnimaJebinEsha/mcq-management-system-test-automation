@@ -1,0 +1,1 @@
+rootProject.name = "mcq-management-system-test-automation"
