@@ -1,0 +1,27 @@
+{
+  "creation": {
+    "class": "AutomationClass1",
+    "course": "AutomationCourse1",
+    "subject": "AutomationSubject1",
+    "chapter": "AutomationChapter1",
+    "topic": "AutomationTopic1",
+    "difficulty": "Easy",
+    "question": "What is 2 + 2?",
+    "options": ["1", "2", "3", "4"],
+    "correctOptionIndex": 3
+  },
+  "update": {
+    "difficulty": "Medium",
+    "question": "What is 3 + 3?",
+    "options": ["4", "5", "6", "7"],
+    "unselectCorrectOptionIndex": 3,
+    "correctOptionIndex": 2
+  },
+  "verify": {
+    "createdQuestion": "What is 2 + 2?",
+    "updatedQuestion": "What is 3 + 3?",
+    "updatedDifficulty": "Medium",
+    "updatedCorrectOption": "C"
+  }
+}
+
